@@ -2,9 +2,6 @@
   font-family: sans-serif;
 }
 .container{
-  background-color: #660099;
-  color: #fff;
-  height:10%;
   font-style: bold;
   padding-left: 20%;
   padding-top: 1%;
@@ -21,5 +18,5 @@
   box-shadow: 2px 2px 4px grey;
 }
 .button{
-  
+  font-style: bold;
 }
