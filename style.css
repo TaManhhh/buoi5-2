@@ -3,8 +3,9 @@
 }
 .container{
   font-style: bold;
-  padding: 10%;
+  padding: 10px;
   font-size: 20px;
+  padding-top:5px
 }
 .card-row{
   
@@ -13,7 +14,7 @@
   padding: 20px;
   border: 1px solid #c9c9c9;
   border-radius: 7px;
-  margin-right: 25%;
+  margin-right: 20%;
   box-shadow: 2px 2px 4px grey;
   
 }
