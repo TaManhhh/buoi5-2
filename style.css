@@ -3,8 +3,7 @@
 }
 .container{
   font-style: bold;
-  padding-left: 20%;
-  padding-top: 1%;
+  padding: 10%;
   font-size: 20px;
 }
 .card-row{
@@ -16,7 +15,19 @@
   border-radius: 7px;
   margin-right: 25%;
   box-shadow: 2px 2px 4px grey;
+  
 }
 .button{
   font-style: bold;
+  background-color: rebeccapurple;
+  color: #fff;
+  padding: 10px;
+  border-radius: 3px;
+  cursor:pointer
 }
+.image{
+  width:100%
+  
+}
+a:link {
+  text-decoration: none;
