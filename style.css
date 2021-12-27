@@ -32,3 +32,9 @@
 }
 a:link {
   text-decoration: none;
+img {
+    width: 200px;
+    height: 300px;
+    object-fit: fill;
+    /* You can also use cover instead of fill but they are different */
+}
