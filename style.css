@@ -33,3 +33,6 @@ img{
     object-fit: contain;
    
 }
+body{
+  margin:unset;
+}
