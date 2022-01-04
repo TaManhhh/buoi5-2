@@ -14,8 +14,8 @@
   border: 1px solid #c9c9c9;
   border-radius: 7px;
   box-shadow: 2px 2px 4px grey;
-  height: 600px;
-  width: 500px;
+  height: 450px;
+  width: 300px;
   position: relative;
 }
 .button{
@@ -35,12 +35,12 @@ body{
 section{
   flex-direction:row;
   display: flex;
-  justify-content: center;
+  justify-content:space-evenly;
 }
 img{
-    width:500px;
-    height: 300px;
-    object-fit: contain; 
+    width:300px;
+    height: auto;
+    /* object-fit: contain;  */
  }  
  .position{
    display: flex;
