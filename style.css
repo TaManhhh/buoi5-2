@@ -13,8 +13,10 @@
   padding:20px;
   border: 1px solid #c9c9c9;
   border-radius: 7px;
-  margin-right: 25%;
   box-shadow: 2px 2px 4px grey;
+  height: 600px;
+  width: 500px;
+  position: relative;
 }
 .button{
   font-style: bold;
@@ -27,12 +29,21 @@
 
 a:link {
   text-decoration: none;}
+body{
+  margin:unset;
+}
+section{
+  flex-direction:row;
+  display: flex;
+  justify-content: center;
+}
 img{
     width: 100%;
     height: 100%;
     object-fit: contain;
-   
-}
-body{
-  margin:unset;
-}
+    align-self: flex-start; 
+ }  
+ .position{
+   display: flex;
+   align-items: flex-end; 
+ }
